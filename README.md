@@ -25,7 +25,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Links
-- Live Site URL: https://gamesceneaccessories.netlify.app/
+- Live Site URL: https://gamescene.netlify.app/
 
 ## My process
 
